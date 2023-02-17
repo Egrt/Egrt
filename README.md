@@ -8,6 +8,8 @@
 
 - 🧡 专注于深度学习 Focusing on Deep Learning
 - 🔨 主要研究遮挡人脸检测、识别、重建, 遥感目标检测编外人员
-- 🍬 期待可以去海边旅
+- 🍬 期待可以去海边旅行
 - 🥩 想吃但是更想瘦
 - 📯 我的哔哩哔哩空间（Bilibili Video） https://space.bilibili.com/381446632
+- 📚 我的CSDN博客（CSDN Blog） https://blog.csdn.net/weixin_43293172
+- 🍱 我的知乎（Zhihu） https://www.zhihu.com/people/yeahzixun
